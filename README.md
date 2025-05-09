@@ -1,3 +1,14 @@
+NOMES: EDISON GOMES GUIMARÃES JUNIOR, LUCAS MIRANDA FERNANDEZ, PIETRO BASTOS.
+
+# Validador_de_CPF
+Configurar o ambiente de trabalho no GitHub e realizar a primeira exibição de um CPF no programa.
+
+# Desenvolvimento do Projeto
+
+## Checklist de Etapas
+
+Cada etapa deverá ser documentada corretamente nas mensagens de commit, usando uma descrição como:
+**`etapa 1: mostrando o CPF com escreva`** ou **`e1: mostrando o CPF com escreva`**
 ## Etapa 1: Configuração Inicial
 
 ### Objetivo
@@ -30,6 +41,27 @@ Permitir a entrada de dados pelo usuário e exibir o CPF formatado.
 ### Tarefas
 - [x] Ler valores digitados para **quatro variáveis inteiras**.
 - [x] Exibir o CPF formatado a partir dos valores lidos.
+
+## Etapa 4: Validando Positivos
+
+### Objetivos
+Valide para que os números digitados sejam maiores que zero.
+
+### Tarefas
+- [x] Ler apenas valores maiores que zero.
+- [x] Exibir o CPF formatado a partir dos valores lidos.
+
+## Etapa 5: Entrando Texto
+
+### Objetivos
+Receba um CPF completo (com pontos e traço) e mostre ele separado em 2 partes.
+
+### Tarefas
+- [x] Coloque o nome dos integrantes estar na parte inicial do README.md.
+- [x] Todos os integrantes devem ter suas contas no GitHub.
+- [ ] Leia um CPF completo do usuário (`XXX.XXX.XXX-YY`).
+- [ ] Separe os 9 números do CPF dos 2 Dígitos Verificadores em duas variáveis.
+- [ ] Exiba as duas variáveis separadamente.
 
 ---
 
